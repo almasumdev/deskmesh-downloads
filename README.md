@@ -14,3 +14,9 @@ Get the file for your computer from the [latest release](https://github.com/alma
 This repo holds only the installers. The files aren't code-signed by Apple or Microsoft yet, so your computer may warn on first install.
 
 Free for personal, non-commercial use. See [LICENSE](LICENSE).
+
+## Made with Slint
+
+DeskMesh's window is built with [Slint](https://slint.dev), used under its royalty-free license.
+
+[![Made with Slint](MadeWithSlint.png)](https://slint.dev)
